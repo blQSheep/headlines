@@ -1,7 +1,7 @@
 import feedparser
 from flask import Flask
 from flask import render_template
-import views
+
 
 app = Flask(__name__)
 
